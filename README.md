@@ -1,1 +1,1 @@
-# detectFaces
+# Detect Faces
