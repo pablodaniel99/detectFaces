@@ -18,28 +18,28 @@
 
 ### First method: 
 
-![image](https://user-images.githubusercontent.com/116290888/198840057-a0f91064-84dd-4f13-83cd-930644d8a1d8.png)
+![image](https://user-images.githubusercontent.com/116290888/198840057-a0f91064-84dd-4f13-83cd-930644d8a1d8.png)(./pic/pic1s.png =250x)
 
 
 ### Second methond: 
 
-![image](https://user-images.githubusercontent.com/116290888/198840075-9db26016-a765-4e58-8bd6-aa6355fc568f.png)
+![image](https://user-images.githubusercontent.com/116290888/198840075-9db26016-a765-4e58-8bd6-aa6355fc568f.png)(./pic/pic1s.png =250x)
 
 
 ### Third method:
 
-![image](https://user-images.githubusercontent.com/116290888/198840198-fa9583a9-7cda-48fc-a4f1-ae2cd48affc5.png)
+![image](https://user-images.githubusercontent.com/116290888/198840198-fa9583a9-7cda-48fc-a4f1-ae2cd48affc5.png)(./pic/pic1s.png =250x)
 
 
 ### And finally we print the result:
 
-![image](https://user-images.githubusercontent.com/116290888/198840242-849c59da-11e8-46d9-8995-6bd967efc633.png)
+![image](https://user-images.githubusercontent.com/116290888/198840242-849c59da-11e8-46d9-8995-6bd967efc633.png)(./pic/pic1s.png =250x)
 
 
 ### Result
 #### For the example, I've chosen an image of Elon Musk:
 
-![image](https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png)
+![image](https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png)(./pic/pic1s.png =250x)
 
 
 
