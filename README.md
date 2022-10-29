@@ -18,16 +18,16 @@
 
 #### The folders containe different images from famous people like Jeff Bezos or Elon Musk. I choose the image of elonj (elon.jpg) for the example, but if you want, you can use other image as long as you have it on your main folder and not only on the path "faces"
 
-### First method: 
+### First function: 
 
 ![image](https://user-images.githubusercontent.com/116290888/198840057-a0f91064-84dd-4f13-83cd-930644d8a1d8.png)
 
-### Second methond: 
+### Second function: 
 
 ![image](https://user-images.githubusercontent.com/116290888/198840075-9db26016-a765-4e58-8bd6-aa6355fc568f.png)
 
 
-### Third method:
+### Third function:
 
 ![image](https://user-images.githubusercontent.com/116290888/198840198-fa9583a9-7cda-48fc-a4f1-ae2cd48affc5.png)
 
