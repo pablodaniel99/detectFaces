@@ -10,6 +10,8 @@
     <img width="20%" src="https://user-images.githubusercontent.com/116290888/198830283-3e9d3fd7-acb7-4f24-923f-6a9c9848cf6b.png"> 
 </p>
 
+#### And these are all the images in the folder "faces". But whoever use this script can put the images of ONLY one person that he wants, only with the condition that he has a second image so the algorithm can work.
+
 
 ![image](https://user-images.githubusercontent.com/116290888/198830451-c29e2091-9d49-4815-87d7-2c3052167c76.png)
 
@@ -50,6 +52,5 @@
     <img width="60%" src="https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png"> 
 </p>
 
-
-
+#### If you want to detect the face of other person contained in the folder faces the only thin you have to do is to add another image of that person in particular and replace in the code (at line 100) the image "elon.jpg"
 
