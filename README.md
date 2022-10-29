@@ -41,10 +41,9 @@
 
 
 <p align="center" width="100%">
-    <img width="30%" src="https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png"> 
+    <img width="60%" src="https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png"> 
 </p>
 
-![image](https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png)
 
 
 
