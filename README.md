@@ -28,7 +28,6 @@
 
 
 ### Third function:
-
 ![image](https://user-images.githubusercontent.com/116290888/198840198-fa9583a9-7cda-48fc-a4f1-ae2cd48affc5.png)
 
 
@@ -39,6 +38,11 @@
 
 ### Result
 #### For the example, I've chosen an image of Elon Musk:
+
+
+<p align="center" width="100%">
+    <img width="30%" src="https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png"> 
+</p>
 
 ![image](https://user-images.githubusercontent.com/116290888/198840349-11132b5a-fca8-4354-b71a-a4ef9c07fae4.png)
 
