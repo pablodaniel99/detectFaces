@@ -6,7 +6,7 @@
 ### The first thing needed is this amount of libraries and also this folder architecture:
 <p align="center">
 ![image](https://user-images.githubusercontent.com/116290888/198827711-0e5c6159-f23c-41e1-9e8e-89a827833731.png)
-<p>
+</p>
   
 ![image](https://user-images.githubusercontent.com/116290888/198830283-3e9d3fd7-acb7-4f24-923f-6a9c9848cf6b.png)
 
