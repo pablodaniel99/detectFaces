@@ -1,7 +1,7 @@
 # Script "Detect Faces"
 
-### All props to Javier Finance (https://www.youtube.com/c/CreditosyR%C3%A1pidos) 
-#
+#### All props to Javier Finance (https://www.youtube.com/c/CreditosyR%C3%A1pidos) 
+
 
 ### The first thing needed is this amount of libraries and also this folder architecture:
 
