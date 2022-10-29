@@ -13,7 +13,7 @@
 
 #### Maybe you have some problems importing cv2, it is highly recommended to use Virtual Studio Code, why? Because usign this platform will make the installation of this package way more easy than using conda o pip, which not only could provoke an Error but may also last 2 hours.
 
-### The folders containe different images from famous people like Jeff Bezos or Elon Musk. I choose the image of elonj (elon.jpg) for the example, but if you want, you can use other image as long as you have it on your main folder and not only on the path "faces"
+#### The folders containe different images from famous people like Jeff Bezos or Elon Musk. I choose the image of elonj (elon.jpg) for the example, but if you want, you can use other image as long as you have it on your main folder and not only on the path "faces"
 
 ### First method: 
 
