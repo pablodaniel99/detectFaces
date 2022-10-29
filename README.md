@@ -6,8 +6,8 @@
 ### The first thing needed is this amount of libraries and also this folder architecture:
 
 <p align="center" width="100%">
-    <img width="80%" src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/116290888/198827711-0e5c6159-f23c-41e1-9e8e-89a827833731.png)"> 
-    <img width="80%" src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/116290888/198830283-3e9d3fd7-acb7-4f24-923f-6a9c9848cf6b.png)"> 
+    <img width="80%" src="https://user-images.githubusercontent.com/116290888/198827711-0e5c6159-f23c-41e1-9e8e-89a827833731.png"> 
+    <img width="80%" src="https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/116290888/198830283-3e9d3fd7-acb7-4f24-923f-6a9c9848cf6b.png"> 
 </p>
 
 
