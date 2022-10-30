@@ -22,28 +22,39 @@
 
 ### First function: 
 
-<p align="center" width="65%">
-    <img width="60%" src="https://user-images.githubusercontent.com/116290888/198840057-a0f91064-84dd-4f13-83cd-930644d8a1d8.png"> 
-</p>
+´´´python
+"""
+This fuction looks through the faces folder and encodes all
+the faces, first, creating a empty tuple for the encoded images, 
+encoding all the images in the folder
+
+:return: dict of (name, image encoded)
+"""
+
+def encode_faces():
+
+    encoded = {}
+
+    for dirpath, dnames, fnames in os.walk("./faces"):
+        for f in fnames:
+            if f.endswith(".jpg") or f.endswith(".png"):
+                face = fr.load_image_file("faces/" + f)
+                encoding = fr.face_encodings(face)[0]
+                encoded[f.split(".")[0]] = encoding
+
+    return encoded
+´´´
 
 ### Second function: 
 
-<p align="center" width="65%">
-    <img width="60%" src="https://user-images.githubusercontent.com/116290888/198840075-9db26016-a765-4e58-8bd6-aa6355fc568f.png"> 
-</p>
 
 ### Third function:
-
-<p align="center" width="100%">
-    <img width="60%" src="https://user-images.githubusercontent.com/116290888/198840198-fa9583a9-7cda-48fc-a4f1-ae2cd48affc5.png"> 
-</p>
 
 
 ### And finally we print the result:
 
-<p align="center" width="100%">
-    <img width="60%" src="https://user-images.githubusercontent.com/116290888/198840242-849c59da-11e8-46d9-8995-6bd967efc633.png"> 
-</p>
+
+
 
 ### Result
 #### For the example, I've chosen an image of Elon Musk:
