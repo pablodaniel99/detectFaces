@@ -40,8 +40,21 @@ def encode_faces():
 ```
 
 ### Second function: 
+```python
+"""
+This fuction will encode a face given the file name
 
+:return: the encoded face
+"""
 
+def solo_image_encoded(img):
+    
+    # We encode the image (face)
+    face = fr.load_image_file("faces/" + img)
+    encoding = fr.face_encodings(face)[0]
+
+    return encoding
+```
 ### Third function:
 
 
