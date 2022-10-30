@@ -22,7 +22,7 @@
 
 ### First function: 
 
-´´´python
+```python
 
 def encode_faces():
 
@@ -37,7 +37,7 @@ def encode_faces():
 
     return encoded
     
-´´´
+```
 
 ### Second function: 
 
