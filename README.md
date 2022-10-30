@@ -24,14 +24,6 @@
 
 ´´´python
 
-"""
-This fuction looks through the faces folder and encodes all
-the faces, first, creating a empty tuple for the encoded images, 
-encoding all the images in the folder
-
-:return: dict of (name, image encoded)
-"""
-
 def encode_faces():
 
     encoded = {}
