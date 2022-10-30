@@ -23,6 +23,7 @@
 ### First function: 
 
 ´´´python
+
 """
 This fuction looks through the faces folder and encodes all
 the faces, first, creating a empty tuple for the encoded images, 
@@ -43,6 +44,7 @@ def encode_faces():
                 encoded[f.split(".")[0]] = encoding
 
     return encoded
+    
 ´´´
 
 ### Second function: 
