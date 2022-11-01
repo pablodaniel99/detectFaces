@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/116290888/198830451-c29e2091-9d49-4815-87d7-2c3052167c76.png)
 
 
-#### Maybe you have some problems importing cv2, it is highly recommended to use Virtual Studio Code, why? Because usign this platform will make the installation of this package way more easy than using conda o pip, which not only could provoke an Error but may also last 2 hours.
+#### Maybe you have some problems importing cv2 or face_recognition, it is highly recommended to use Virtual Studio Code, why? Because usign this platform will make the installation of this package way more easy than using conda o pip, which not only could provoke an Error but may also last 2 hours.
 
 #### The folders containe different images from famous people like Jeff Bezos or Elon Musk. I choose the image of elonj (elon.jpg) for the example, but if you want, you can use other image as long as you have it on your main folder and not only on the path "faces"
 
